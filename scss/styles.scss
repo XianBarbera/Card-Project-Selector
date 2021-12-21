@@ -1,7 +1,16 @@
 @import '_variables';
 @import '_mixins';
 @import '_default';
-
-h1 {
-  @include flexCenter;
+.card {
+    width: 500px;
+    background-color: $cardBgColor;
+    &__title {}
+    @include flexCenter;
+    flex-direction: column;
+    &__description {
+        max-width: 200px;
+    }
+    &__footer {
+        &__social {}
+    }
 }

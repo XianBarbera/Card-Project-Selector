@@ -1,4 +1,3 @@
-const hello = 'Hello Ian'
-const person = {}
+const cards = []
 
-export { hello }
+export { cards }
