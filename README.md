@@ -9,3 +9,14 @@
     - Done
 5.  Haremos deploy de este proyecto a una página web real.
 6.  BONUS, se guardará el estado de cada carta en una base de datos para persistir los datos en el tiempo.
+
+## Project setup
+
+* Activar `watch sass` cada vez que se abra el proyecto.
+
+## Resources
+
+[SASS DOCS](https://sass-lang.com/documentation)
+
+[GOOGLE FONTS](https://fonts.google.com/)
+[GOOGLE FONTS DOCS](https://developers.google.com/fonts/docs/getting_started)
