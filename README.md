@@ -16,7 +16,7 @@
 
 ## Resources
 
-[SASS DOCS](https://sass-lang.com/documentation)
-
-[GOOGLE FONTS](https://fonts.google.com/)
-[GOOGLE FONTS DOCS](https://developers.google.com/fonts/docs/getting_started)
+* [SASS DOCS](https://sass-lang.com/documentation)
+* [GOOGLE FONTS](https://fonts.google.com/)
+* [GOOGLE FONTS DOCS](https://developers.google.com/fonts/docs/getting_started)
+* [JS MODULES](https://javascript.info/modules-intro)
